@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/argilla/commit/5338519accb13ae422f8bf9c0642651c249c49af",
       "git:hexsha": "5338519accb13ae422f8bf9c0642651c249c49af",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T01:34:19.314338+00:00"
     },
     {
       "@id": "https://repolex.ai/r/argilla-io/argilla/commit/060c9dbaefb16c79b19a5a041525a8054893f896",
